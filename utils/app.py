@@ -1,4 +1,4 @@
-from utils import database
+from . import database
 
 
 USER_CHOICE = """
